@@ -8,5 +8,5 @@ c:
 dir
 
 these will mount your folder to the drive
-then enter the game.asm and the game will start
-press enter to make the dinosaur jump 
+then enter the assembly snake game.asm and the game will start
+press enter to make the character  jump 
