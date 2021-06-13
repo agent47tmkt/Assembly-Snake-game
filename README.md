@@ -1,4 +1,5 @@
 # Assembly-Snake-game
+this is a snakes game which was very popular in the 2010s in the nokia phones.This game is made is a very low level language known as assembly,to play this game:
 install dosbox
 run dosbox
 and type the following commands
